@@ -1,8 +1,8 @@
 # Logistics App
 
-#### Manage logistics data by synchronizing files on a remote ftp server to a local MySQL database 
+#### Manage logistics data by importing files from a remote ftp server to a local MySQL database 
 
-[![Logistics App](https://github.com/jklepatch/logistics-app/raw/master/screenshot.jpg)](#features)
+[![Logistics App](https://github.com/jklepatch/logistics-app/raw/master/screenshot.png)](#features)
 
 This is a small PHP app to manage logistics data. It downloads data from .csv files sitting on a remote ftp server (typically made available by a shipping company) and feed a local MySQL database. A responsive web interface allows to visualize downloaded data in a user-friendly dashboard. 
 
